@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="utf-8">
+    <title> Titulo do documento </title>
+  <body>
+	<h1><hr>Minha Pagina Web<hr></h1><br>
+    <p>
+        primeira tentativa que provavelmente sera insuficiente<br>
+        porem melhorala com o tempo<br>
+    </p>
+    <a href="https://www.nobresafracafes.com/?gclid=EAIaIQobChMI9679gtH0_QIVZhTUAR3X8QKxEAAYAiAAEgJlFvD_BwE"><button> teste link </button></a>
+    <img alt="Loja de cafe" src="https://www.bloomberglinea.com/resizer/ZZaYML3Ev60ktbvtURmoU-VcNpw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/QMA63E5VYRE73GKYMOGAX5UBXU.jpg" width="300" height="200"/>
+    <br><hr> cafe ou não cafe </hr> <hr>eis a questão <hr><Br>
+</body>
+ </head>
+</html> 
