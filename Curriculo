@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Meu curriculo </title>
+    <body>
+  <h1><hr>Thales Sousa Lima<hr></h1>
+  <img alt="Loja de cafe" src="https://avatars.githubusercontent.com/u/111453250?s=400&u=05803a944a489d6316b17e7f2687b37b7d14f851&v=4" width="200" height="200"/><br><hr>
+    <p>
+        <strong>EMI:</strong>Instituto Federal de Brasilia<br>
+        <strong>Curso:</strong>Tecnico em Eletronica<br>
+        <strong>Matriculado:</strong>Universidade Catolica de Brasilia<br>
+        <strong>Cursando:</strong>Ciencias da computação<br>
+        <hr><h3>Experiencia</h3><hr>
+        <strong>Jovem Aprendiz:</strong>Renapsi<br>
+        <strong>Trabalhando:</strong>Otentaculo:Suporte de TI<br>
+
+    </p>
+    <br><a href="https://github.com/Tutusvip"><button> link do github </button></a><br>    
+<br><hr> cafe ou não cafe </hr> <hr>eis a questão <hr><Br>
+    </body>
+  </head>
+</html> 
