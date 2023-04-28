@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Formulário</title>
+    </head>
+<body>
+  <form method="post" action="e-mail:">
+	Nome
+	<input type="text" size="10"
+	maxlength="40" name="name" /><br/>
+	senha:
+	<input type="password" />
+
+<br><p>Qual a cor e tamanho da camiseta?</p>
+	<p>Cor</p>
+ 	<input type="radio" name="camiseta" value="Azul">	
+		Azul <br/>
+ 	<input type="radio" name="camiseta" value="Branca">
+		Branca <br/>
+	<p>Tamanho</p>
+	<input type="radio" name="camisa" value="P">	
+		P <br/>
+	<input type="radio" name="camisa" value="M">	
+		M <br/>
+	<input type="radio" name="camisa" value="G">	
+		G <br/>
+<br><p>Quais cores de sapatos você prefere?</p>
+	<input type="checkbox" name="Sapatos" value="preto">	
+		Preto <br/>
+	<input type="checkbox" name="Sapatos" value="branco">	
+		Branco <br/>
+	<input type="checkbox" name="Sapatos" value="cinza">	
+		Cinza <br/>
+	<input type="checkbox" name="Sapatos" value="marrom">	
+		Marrom <br/>
+	
+  	<input type="submit" value="Entrar">,
+	<input type="reset">
+
+  </form>
+</body>
+</html>
