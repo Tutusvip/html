@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Formulário</title>
+    </head>
+<body>
+  <form method="post" action="e-mail:">
+	<strong>Endereço de E-mail:</strong>
+	<input type="text" size="10"
+	maxlength="40" name="Endereço de E-mail:" /><br/>
+  <form method="post" action="e-mail:">
+	<strong>Nome:</strong>
+	<input type="text" size="10"
+	maxlength="40" name="Nome:" /><br/>
+<label><strong>Sexo:</strong><select name="Sexo">
+	<option value="el macho">el macho</option>
+	<option value="Feminino">Feminino</option>
+</select><br />
+
+<label><strong>Curso:</strong><select name="Curso">
+	<option value="Análise e Desenvolvimento de Sistemas">Análise e Desenvolvimento de Sistemas</option>
+	<option value="Ciência de dados">Ciência de dados</option>
+	<option value="Inteligência Artificial">Inteligência Artificial</option>
+</select><br />
+	
+  	<input type="submit" value="Entrar">,
+	<input type="reset">
+
+  </form>
+</body>
+</html>
