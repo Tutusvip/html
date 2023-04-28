@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Formulário</title>
+    </head>
+<body>
+  <form method="post" action="e-mail:">
+	Nome
+	<input type="text" size="10"
+	maxlength="40" name="name" /><br/>
+	senha:
+	<input type="password" />
+  	<input type="submit" value="Entrar">,
+	<input type="reset">
+<br>
+<input type="button" onclick="alert('Fala corno!')" value="Click Me!">
+  </form>
+</body>
+</html>
