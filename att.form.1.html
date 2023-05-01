@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Formulário</title>
+    </head>
+<body>
+  <form method="post" action="e-mail:">
+	<strong>Endereço de e-mail:</strong>
+	<input type="text" size="10"
+	maxlength="40" Endereço de e-mail:="Endereço de e-mail:" /><br/>
+	<strong>Nome:</strong>
+	<input type="text" size="10"
+	maxlength="40" name:="name:" /><br/>
+  </form>
+  <label><strong>Sexo:</strong>
+  <select name="Sexo">
+	<option value="Masculino"> Masculino</option>
+	<option value="Feminino"> Feminino</option>
+	<option value="Outros"> Outros</option>
+  </select>
+  </label><br>
+  <label><strong>Curso:</strong>
+	<select name="Curso">
+	  <option value="Ciencia da Computação"> Ciencia da Computação</option>
+	  <option value="Ciencia de Dados"> Ciencia de Dados</option>
+	  <option value="Logistica"> Logistica</option>
+	</select>
+	</label>
+	<form method="post" action="e-mail:">
+		<strong>Endereço para correspondência:</strong>
+		<input type="text" size="10"
+		maxlength="50" Endereço para correspondência:="Endereço para correspondência:" /><br/>
+		<strong>CEP:</strong>
+		<input type="text" size="10"
+		maxlength="40" CEP:="CEP:" /><br/>
+		<strong>Município:</strong>
+		<input type="text" size="10"
+		maxlength="40" Município:="Município:" />
+		<select>
+				<option>
+					<option value="RS"> RS</option>
+					<option value="DF"> DF</option>
+					<option value="GO"> GO</option>
+				</option>
+		</select>
+	</form>
+	<input type="submit" value="Salvar">
+	<input type="reset">
+</body>
+</html>
